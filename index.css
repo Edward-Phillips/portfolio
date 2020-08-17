@@ -1,0 +1,28 @@
+#top {
+  display:grid;
+  grid-template-columns: 2fr 1fr 4fr;
+}
+
+#name {
+  font-size: 2em;
+}
+
+#bottom {
+  display:grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+
+#projectPhoto {
+  height: 200px;
+  width: 200px;
+}
+
+#projectDetail {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+button {
+  width: 10vw;
+}
